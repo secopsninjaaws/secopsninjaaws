@@ -12,22 +12,23 @@
 ### 🚀 Certificações AWS
 
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.5c083fa855fe82c1cf2c7f236aabc1b4e002b5c1.png" width="120" alt="AWS Cloud Practitioner"/>
+  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="120" alt="AWS Cloud Practitioner"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_badge.1c8d7fc8f5c1e76ce9093bb1b695472557245a4d.png" width="120" alt="AWS Solutions Architect Associate"/>
+  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="120" alt="AWS Solutions Architect Associate"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://aws.amazon.com/certification/certified-developer-associate/">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Developer-Associate_badge.7b6b85c9d0b728b8f8d7f8e43aa1f8db0087fcb3.png" width="120" alt="AWS Developer Associate"/>
+  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-developer-associate.png?raw=true" width="120" alt="AWS Developer Associate"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://aws.amazon.com/certification/certified-security-specialty/">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Security-Specialty_badge.7b8c8c811fd1a39f01eb3cb059f3eb1e8c85c4bc.png" width="120" alt="AWS Security Specialty"/>
+  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-security-specialty.png?raw=true" width="120" alt="AWS Security Specialty"/>
 </a>
 
 </div>
+
 🚀 Apaixonado por Cloud, Automação e Segurança! Aqui você encontra projetos, scripts e experimentos voltados para AWS, Terraform, Kubernetes, Python e muito mais.
 
 ## 🛠️ Tech Stack
