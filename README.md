@@ -8,25 +8,7 @@
 ---
 
 <div align="center">
-
-### 🚀 Certificações AWS
-
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="120" alt="AWS Cloud Practitioner"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="120" alt="AWS Solutions Architect Associate"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://aws.amazon.com/certification/certified-developer-associate/">
-  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-developer-associate.png?raw=true" width="120" alt="AWS Developer Associate"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://aws.amazon.com/certification/certified-security-specialty/">
-  <img src="https://github.com/gustavoguanabara/aws-certifications/blob/main/aws-certified-security-specialty.png?raw=true" width="120" alt="AWS Security Specialty"/>
-</a>
-
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" alt="Code Animation">
 </div>
 
 🚀 Apaixonado por Cloud, Automação e Segurança! Aqui você encontra projetos, scripts e experimentos voltados para AWS, Terraform, Kubernetes, Python e muito mais.
