@@ -1,7 +1,6 @@
 ### 🌍 Bem-vindo ao meu GitHub!
 
 <div align="center">
-  <h2>👋 Olá, eu sou Lucas Gabriel!</h2>
   <p><strong>AWS | DevOps | Security | Terraform | Kubernetes | Python | Linux</strong></p>
 </div>
 
